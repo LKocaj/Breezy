@@ -26,6 +26,7 @@
 </details>
 
 <!-- ABOUT THE PROJECT -->
+![breezy_screenshoot](https://github.com/user-attachments/assets/e45c6a8c-e185-4950-b7c8-1e8eb830a9b9)
 
 ## About The Project
 
