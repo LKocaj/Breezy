@@ -30,7 +30,7 @@
 ## About The Project
 
 <p align="center">
-  <img src="./assets/images/breezy_screenshoot.png" />
+  <img src="./assets/images/breezy_screenshot.png" />
 </p>
 
 This project is a modern JavaScript-based weather application that fetches real-time weather data using the OpenWeather API. Built as a refresher on core JavaScript concepts, the app showcases asynchronous API handling, dynamic DOM manipulation, and responsive design principles. Users can search for current weather conditions by city, view temperature, humidity, and weather icons, all within a clean and user-friendly interface.
@@ -47,9 +47,13 @@ This project is a modern JavaScript-based weather application that fetches real-
 
 ## Instructions
 
-Click on the link
+1. [Click on this link](https://lkocaj.github.io/Weather_Boy/)
 
-Type in a city of choice
+2. Type in a city of choice.
+
+3. Get your weather
+
+4. GET OUT THERE
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -63,7 +67,9 @@ Type in a city of choice
 <br>
 💻 [github](github.com/lkocaj)
 <br>
-📑 [Project](https://github.com/LKocaj/Weather_Boy)
+📑 [Source Code](https://github.com/LKocaj/Weather_Boy)
+<br>
+📑 [Finished Product](https://lkocaj.github.io/Weather_Boy/)
 <br>
 🎥 [Youtube](https://www.youtube.com/channel/UCT9VNw7nEAY0jqPlHM6zlSw)
 
