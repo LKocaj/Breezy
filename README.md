@@ -29,8 +29,6 @@
 
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
-
 This project is a modern JavaScript-based weather application that fetches real-time weather data using the OpenWeather API. Built as a refresher on core JavaScript concepts, the app showcases asynchronous API handling, dynamic DOM manipulation, and responsive design principles. Users can search for current weather conditions by city, view temperature, humidity, and weather icons, all within a clean and user-friendly interface.
 
 <p align="right">(<a href="#top">back to top</a>)</p>
