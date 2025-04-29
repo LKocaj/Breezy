@@ -19,11 +19,7 @@
       </ul>
     </li>
     <li>
-      <a href="#getting-started">Getting Started</a>
-      <ul>
-        <li><a href="#prerequisites">Prerequisites</a></li>
-        <li><a href="#installation">Installation</a></li>
-      </ul>
+      <a href="#Instructions">Instructions</a>
     </li>
     <li><a href="#contact">Contact</a></li>
   </ol>
@@ -41,16 +37,17 @@ write about how you NEED A JOB in development
 
 ### Built With
 
-[](https://shields.io/badge/JavaScript-F7DF1E?logo=JavaScript&logoColor=000&style=flat-square)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 <!-- GETTING STARTED -->
 
-## Getting Started
+## Instructions
 
-This is an example of how you may give instructions on setting up your project locally.
-To get a local copy up and running follow these simple example steps.
+Click on the link
+
+Type in a city of choice
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -62,6 +59,6 @@ Email: Lawrencekocaj@gmail.com
 <br>
 Youtube: https://www.youtube.com/channel/UCT9VNw7nEAY0jqPlHM6zlSw
 <br>
-Project Link: https://github.com/LKocaj/
+Project Link: https://github.com/LKocaj/Weather_Boy
 
 <p align="right">(<a href="#top">back to top</a>)</p>
