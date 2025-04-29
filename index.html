@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Weather Boy</title>
+    <title>Breezy</title>
     <link rel="stylesheet" href="./assets/styles.css">
 </head>
 <body>
@@ -13,22 +13,26 @@
         <input type="text" placeholder="Enter city name">
         <button id="search-button"><img src="./assets/images/search.png" alt=""></button>
     </div>
+
+    <div class="error">
+        <p>Invalid city name!</p>
+    </div>
     <div class="weather">
         <img src="assets/images/rain.png" class="weather-icon">
-        <h1 class="temp">22°F</h1>
-        <h2 class="city">New York</h2>
+        <h1 class="temp">0°F</h1>
+        <h2 class="city"></h2>
         <div class="details">
             <div class="col">
                 <img src="assets/images/humidity.png" alt="">
                 <div>
-                    <p class="humidity">50%</p>
+                    <p class="humidity">0</p>
                     <p>Humidity</p>
                 </div>
             </div>
             <div class="col">
                 <img src="assets/images/wind.png" alt="">
                 <div>
-                    <p class="wind">15 MPH</p>
+                    <p class="wind">0 MPH</p>
                     <p>Wind Speed</p>
                 </div>
             </div>
