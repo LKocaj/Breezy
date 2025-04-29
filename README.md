@@ -4,7 +4,7 @@
   <h1 align="center">BREEZY</h1>
 
   <p align="center">
-   A weather app completed with javascript
+   A WEATHER APP CREATED WITH JAVASCRIPT
   </p>
 </div>
 
@@ -29,7 +29,9 @@
 
 ## About The Project
 
-![breezy_screenshoot](https://github.com/user-attachments/assets/e764c694-0497-45b1-a2ec-759b37cf639c)
+<p align="center">
+  <img src="./assets/images/breezy_screenshoot.png" />
+</p>
 
 This project is a modern JavaScript-based weather application that fetches real-time weather data using the OpenWeather API. Built as a refresher on core JavaScript concepts, the app showcases asynchronous API handling, dynamic DOM manipulation, and responsive design principles. Users can search for current weather conditions by city, view temperature, humidity, and weather icons, all within a clean and user-friendly interface.
 
