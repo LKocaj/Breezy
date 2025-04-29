@@ -31,7 +31,7 @@
 
 [![Product Name Screen Shot][product-screenshot]](https://example.com)
 
-write about how you NEED A JOB in development
+This project is a modern JavaScript-based weather application that fetches real-time weather data using the OpenWeather API. Built as a refresher on core JavaScript concepts, the app showcases asynchronous API handling, dynamic DOM manipulation, and responsive design principles. Users can search for current weather conditions by city, view temperature, humidity, and weather icons, all within a clean and user-friendly interface.
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -55,10 +55,14 @@ Type in a city of choice
 
 ## Contact
 
-Email: Lawrencekocaj@gmail.com
+✉️ Lawrencekocaj@gmail.com
 <br>
-Youtube: https://www.youtube.com/channel/UCT9VNw7nEAY0jqPlHM6zlSw
+💼 [LinkedIn](https://www.linkedin.com/in/lawrencekocaj/)
 <br>
-Project Link: https://github.com/LKocaj/Weather_Boy
+💻 [github](github.com/lkocaj)
+<br>
+📑 [Project](https://github.com/LKocaj/Weather_Boy)
+<br>
+🎥 [Youtube](https://www.youtube.com/channel/UCT9VNw7nEAY0jqPlHM6zlSw)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
