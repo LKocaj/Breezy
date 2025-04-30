@@ -4,7 +4,7 @@
   <h1 align="center">WEATHER BOY</h1>
 
   <p align="center">
-   A WEATHER APP CREATED WITH JAVASCRIPT
+   I built this website as a way to refresh and sharpen my JavaScript skills, focusing on hands-on practice with core concepts and interactivity.
   </p>
 </div>
 
