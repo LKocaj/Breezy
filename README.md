@@ -47,7 +47,7 @@ This project is a modern JavaScript-based weather application that fetches real-
 
 ## Instructions
 
-1. [Click on this link](https://lkocaj.github.io/Weather_Boy/)
+1. https://lkocaj.github.io/Weather_Boy/ <- Click [here](https://lkocaj.github.io/Weather_Boy/) to launch the webpage
 
 2. Type in a city of choice.
 
