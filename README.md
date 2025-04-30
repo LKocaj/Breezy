@@ -1,7 +1,7 @@
 <div id="top"></div>
 <div align="center">
  
-  <h1 align="center">BREEZY</h1>
+  <h1 align="center">WEATHER BOY</h1>
 
   <p align="center">
    A WEATHER APP CREATED WITH JAVASCRIPT
